@@ -1,0 +1,10 @@
+{
+  "name": "ImageRoute",
+  "description": "Smart Image Routing for a Smarter Workplace. Automatically detect and route documents and images to the right enterprise department.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

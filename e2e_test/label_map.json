@@ -1,0 +1,32 @@
+{
+  "labels": [
+    "advertisement",
+    "correspondence",
+    "email",
+    "file_folder",
+    "financial",
+    "form",
+    "handwritten",
+    "news_article",
+    "presentation",
+    "questionnaire",
+    "resume",
+    "scientific",
+    "specification"
+  ],
+  "num_classes": 13,
+  "mean": [
+    0.9249141812324524,
+    0.9249141812324524,
+    0.9249141812324524
+  ],
+  "std": [
+    0.20651684701442719,
+    0.20651684701442719,
+    0.20651684701442719
+  ],
+  "best_epoch": 85,
+  "best_val_acc": 78.01,
+  "best_val_loss": 0.668152,
+  "grayscale": true
+}
