@@ -4,8 +4,6 @@ ImageRoute is an AI-assisted document/image routing application. Uploaded docume
 
 ## Classification engine
 
-**No Gemini call is made by the Route Image upload flow.** The production inference path is:
-
 `Image/PDF → EasyOCR → Custom CNN + TF-IDF → 13-class prediction → Department mapping`
 
 Bundled model artifacts:
